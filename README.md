@@ -1,16 +1,17 @@
-## Hi there 👋
+## Servus, ich bin die Bea (Lisa) 👋
 
-<!--
-**bea545lisa/bea545lisa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Webentwicklerin mit langjähriger Erfahrung in PHP/MySQL –  
+aktuell erweitere ich meinen Stack mit Laravel, Vue.js und React.
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
+**Erfahren:** PHP OOP · MySQL · jQuery · AJAX · SASS  
+**Aktuell:** Laravel · Vue.js · React · TypeScript · Shopify API
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Projekte
+- **[rexpaw-admin](https://github.com/bea545lisa/rexpaw-admin)** — Shopify Embedded Admin App mit React, Polaris & GraphQL API
+- **[shopping-app](https://github.com/bea545lisa/shopping-app)** — Shopping App mit React · TypeScript · Express · MongoDB
+
+### 📫 Kontakt
+📍 Raum München / Oberland · Remote möglich  
+✉️ bea.rohrmoser@gmail.com  
+💼 Offen für neue Möglichkeiten
