@@ -1,7 +1,7 @@
 ## Servus, ich bin die Bea (Lisa) 👋
 
-Webentwicklerin mit langjähriger Erfahrung in PHP/MySQL –  
-aktuell erweitere ich meinen Stack mit Laravel, Vue.js und React.
+Webentwicklerin mit langjähriger Erfahrung in PHP/MySQL  
+aktuell erweitere ich meinen Stack mit Laravel, Vue.js, React & Shopify Embedded Apps
 
 ### 🛠 Tech Stack
 **Erfahren:** PHP OOP · MySQL · jQuery · AJAX · SASS  
@@ -12,6 +12,6 @@ aktuell erweitere ich meinen Stack mit Laravel, Vue.js und React.
 - **[shopping-app](https://github.com/bea545lisa/shopping-app)** — Shopping App mit React · TypeScript · Express · MongoDB
 
 ### 📫 Kontakt
-📍 Raum München / Oberland · Remote möglich  
+📍 Raum München / Oberland · Remote  
 ✉️ bea.rohrmoser@gmail.com  
 💼 Offen für neue Möglichkeiten
