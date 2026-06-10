@@ -1,6 +1,6 @@
 ## Servus, ich bin die Bea (Lisa) 👋
 
-Freiberufliche Webentwicklerin im Raum München / Oberland –  
+Full-Stack Developer im Raum München / Oberland –  
 mit langjähriger Erfahrung in PHP/MySQL und aktuell erweitertem Stack mit Laravel, Vue.js, React & Shopify Embedded Apps.
 
 ---
