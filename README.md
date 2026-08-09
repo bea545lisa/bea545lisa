@@ -1,4 +1,4 @@
-## Servus, ich bin die Bea (Lisa) 👋
+## Servus, ich bin die Bea Lisa 👋
 
 Full-Stack Developer im Raum München / Oberland –  
 mit langjähriger Erfahrung in PHP/MySQL und aktuell erweitertem Stack mit Laravel, Vue.js, React & Shopify Embedded Apps.
