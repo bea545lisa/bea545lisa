@@ -18,8 +18,8 @@ mit langjähriger Erfahrung in PHP/MySQL und aktuell erweitertem Stack mit Larav
 - **[bealisa](https://github.com/bea545lisa/bealisa.com)** — Private Homepage · Vue 3 · Vite · Tailwind CSS v4 · [bealisa.com](https://bealisa.com)
 - **[webwork](https://github.com/bea545lisa/webwork)** — Portfolio-Website · Laravel 12 · Vue.js 3 · Tailwind CSS v4 · [webwork-oberland.de](https://webwork-oberland.de)
 - **[dogsitter](https://github.com/bea545lisa/dogsitter)** — Vermittlungsplattform für Hundebetreuung · Laravel 13 · Nuxt 3 · Vue 3 · Pinia · Laravel Sanctum · allinkl + Vercel
-- **[xpaw-admin](https://github.com/bea545lisa/xpaw-admin)** — Shopify Embedded Admin App · React · Polaris · GraphQL API
-- **[xpaw-storefront](https://github.com/bea545lisa/xpaw-storefront)** — Shopify Store Theme · Liquid · [xpaw.webwork-oberland.de](https://xpaw.webwork-oberland.de) (Demo-Passwort: xpaw2026)
+- **[xpaw-admin](https://github.com/bea545lisa/xpaw-admin)** — Shopify Embedded Admin App · React · Polaris · GraphQL API 
+- **[xpaw-storefront](https://github.com/bea545lisa/xpaw-storefront)** — Shopify Store Theme · Liquid · [xpaw.webwork-oberland.de](https://xpaw.webwork-oberland.de) (Demo-Passwort: demo)
 
 ---
 
